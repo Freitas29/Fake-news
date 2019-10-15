@@ -1,6 +1,19 @@
+.custom-name{
+    width: 30%;
+    border-top: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+}
+
+
 @media (max-width: 768px) { 
     .custom-arrow{
         display: none !important;
         visibility: hidden;
+    }
+
+    .custom-name{
+        width: 60%;
+        border-top: 0.5px solid black;
+        border-bottom: 0.5px solid black;
     }
 }
