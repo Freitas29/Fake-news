@@ -49,18 +49,8 @@ body{
     border-radius: 0px;   
 }
 
-.jumbotron-custom-two{
-    background-color: #1c1d24;
-    padding: 7rem 2rem !important;
-    border-radius: 0px;
-    border-radius: 0px;   
-}
 
 @media (max-width: 768px) { 
-    .custom-arrow{
-        display: none !important;
-        visibility: hidden;
-    }
 
     .custom-name{
         width: 60%;
